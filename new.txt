@@ -4,3 +4,5 @@ I add one record
 Git has  a mutable index called stage
 Git tracks changes of files
 My stupid boss still prefer SVN
+overlook git gui menue
+my first remote repository has been established
